@@ -4,7 +4,7 @@
 [Netlify Link](https://endorsement-app.netlify.app/)
 
 ### Project screenshots
-<img src='./assets/mobile.jpg' alt="mobile mockup" title="mobile mockup" style='height: 400px; margin: 0 auto;'><img src='./assets/desktop.jpg' alt="desktop mockup" title="desktop mockup" style='height: 400px; margin: 0 auto;'> 
+<img src='./assets/mobile.jpg' alt="mobile mockup" title="mobile mockup" style='height: 300px; margin: 0 auto;'><img src='./assets/desktop.jpg' alt="desktop mockup" title="desktop mockup" style='height: 300px; margin: 0 auto;'> 
 
 ### Project description
 
